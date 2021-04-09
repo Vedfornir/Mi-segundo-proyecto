@@ -1,0 +1,3 @@
+Al colocar el URL del repositorio público me permite ver el contenido del mismo.
+
+Al colocar el privado me muestra un aviso de que la página no esta diponible.
